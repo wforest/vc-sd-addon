@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Visual Composer: Kitchen sink content element maping
-Plugin URI: http://vc.wpbakery.com
+Plugin Name: Visual Composer: Sulli Digital Add-on
+Plugin URI: https://github.com/wforest/vc-sd-addon
 Description: Study code to see how you can achieve interesting things in VC with your own custom content elements
 Version: 0.1
-Author: Michael M - WPBakery.com
-Author URI: http://wpbakery.com
+Author: Bill S - sullidigital.com
+Author URI: https://www.sullidigital.com
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
